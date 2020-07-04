@@ -1,0 +1,8 @@
+Sebelumnya mohon maaf, dikarenakan tanggal 6-10 dikampus saya akan diadakan pekan UAS
+yang mana Tugas UAS sangat banyak sehingga saya tidak sempat untuk mengerjakan
+tugas CRUD dari sanbercode.
+Maka saya melampirkan project saya beberapa waktu yang lalu
+yang menurut saya materinya sesuai dengan yang diberikan oleh Sanbercode
+yaitu CRUD di Laravel.
+Terimakasih atas pengertiannya.
+Salam.
